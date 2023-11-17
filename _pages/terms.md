@@ -3,6 +3,10 @@ layout: page
 title: Terms & Conditions
 include_in_header: false
 ---
+**Terms of Use (EULA)**
+
+[Standard Apple Terms of Use (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
 
 **Terms & Conditions**
 
